@@ -15,7 +15,7 @@ body {
     display: block;
     margin: 0.08em auto;
     text-align: center;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .divider {
@@ -42,7 +42,7 @@ body {
     opacity: 0;
     transform: translateY(20px);
     transition: all 2s ease;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .intro .line.visible {
@@ -85,20 +85,20 @@ body {
     font-size: 0.8em;
     text-align: center;
     margin-bottom: 2em;
-    font-family: arial, sans-serif, verdana;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .topline {
     font-size: 1.5em;
     margin-top: 1em; 
     margin-bottom: 1em;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
     font-size: 1.1em; 
     line-height: 2;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .date {
@@ -121,6 +121,7 @@ h2 {
     margin-right: 0.5rem;
     margin-top: 0;
     margin-bottom: 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .icon {
@@ -147,7 +148,7 @@ details {
 summary {
     color: #94938d;
     padding-top: 1em;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .topics {
@@ -159,29 +160,30 @@ summary {
 #subheading1 {
     margin: 1em 0;
     padding-top: 2em;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #subheading2 {
     margin: 1em 0;
     padding-top: 2em;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #subheading3 {
     margin: 1em 0;
     padding-top: 2em;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #subheading4 {
     margin: 1em 0;
     padding-top: 2em;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .texts {
-    line-height: 2;
+    font-size: 1.1em;
+    line-height: 2.1;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -204,7 +206,7 @@ summary {
     padding-top: 1em;
     margin-bottom: 0;
     margin-left: 2em;
-    font-family: 'Playfair Display', sans-serif, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .memo-body {
@@ -247,7 +249,7 @@ summary {
 
 .other-article-title {
     font-weight: bold;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .other-article-summary {
@@ -306,7 +308,7 @@ summary {
     text-align: center;
     font-size: 0.8em;
     margin: 0.2em auto;
-    font-family: arial, sans-serif, verdana;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
