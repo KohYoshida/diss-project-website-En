@@ -16,6 +16,7 @@ body {
     margin: 0.08em auto;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .divider {
@@ -48,6 +49,24 @@ body {
 .intro .line.visible {
     opacity: 1;
     transform: translateY(0);
+}
+
+.about {
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.descbox-title {
+    font-size: 1.1em;
+}
+
+#description {
+    text-align: left;
+    line-height: 1.5;
+    font-size: 1.1em;
+    color: rgb(58, 58, 58);
 }
 
 #top {
@@ -86,6 +105,7 @@ body {
     text-align: center;
     margin-bottom: 2em;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .topline {
@@ -93,12 +113,14 @@ body {
     margin-top: 1em; 
     margin-bottom: 1em;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 h2 {
     font-size: 1.1em; 
     line-height: 2;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .date {
@@ -106,6 +128,7 @@ h2 {
     text-align: left;
     margin-bottom: 0;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .credit {
@@ -122,6 +145,7 @@ h2 {
     margin-top: 0;
     margin-bottom: 0;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .icon {
@@ -161,30 +185,35 @@ summary {
     margin: 1em 0;
     padding-top: 2em;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 #subheading2 {
     margin: 1em 0;
     padding-top: 2em;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 #subheading3 {
     margin: 1em 0;
     padding-top: 2em;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 #subheading4 {
     margin: 1em 0;
     padding-top: 2em;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .texts {
     font-size: 1.1em;
     line-height: 2.1;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .inserted-image {
@@ -192,6 +221,7 @@ summary {
     text-align: right;
     margin: 1 auto;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .memo {
@@ -226,6 +256,7 @@ summary {
     line-height: 2;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(58, 58, 58);
 }
 
 .other-article-container {
@@ -238,7 +269,7 @@ summary {
     border-top: 2px solid rgb(230, 227, 223);
     border-bottom: 2px solid rgb(230, 227, 223);
     border-left: 2px solid rgb(230, 227, 223);
-    color: black;
+    color: rgb(58, 58, 58);
     padding-left: 0.5em;
     padding-right: 0.5em;
 }
@@ -250,10 +281,12 @@ summary {
 .other-article-title {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+    line-height: 1.2;
 }
 
 .other-article-summary {
     font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
 }
 
 .other-article-image {
